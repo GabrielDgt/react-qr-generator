@@ -28,7 +28,7 @@ body {
   min-height: 100vh;
 }
 
-main { 
+.page { 
   display: flex;
   justify-content: center;
   align-items: center;
